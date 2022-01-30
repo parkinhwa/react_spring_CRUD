@@ -1,4 +1,6 @@
 # react_spring_CRUD
+react, spring JPA 라이브러리 사용
+
 ## Main Home
 ![Main](https://user-images.githubusercontent.com/65644486/140756776-3ddb5bd6-efe8-4033-ae35-9085f7704fa0.JPG)
 
